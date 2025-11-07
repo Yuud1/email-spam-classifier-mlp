@@ -23,6 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
+
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
@@ -39,8 +40,8 @@ wheels/
 Thumbs.db
 
 # Dados grandes (opcional - remova se quiser versionar o dataset)
-# archive/
-# *.csv
+archive/
+*.csv
 
 # Modelos treinados (se você salvar)
 *.pkl
